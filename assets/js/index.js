@@ -141,7 +141,7 @@ var projects = [
         tags: ["all", "full stack"]
     },
     {
-        name: "Glass morphism Calculater",
+        name: "Glass morphism Calculator",
         image: "cal.PNG",
         desc: "The Glass Morphism Calculator is a tool that performs simple calculations (like addition, subtraction, multiplication, and division), and I implemented it with HTML5, CSS, and JS.",
         link: "https://mansi157.github.io/calculater/",
