@@ -152,7 +152,7 @@ var projects = [
         image: "port.PNG",
         desc: "Here is my Personal Website, where you can find out more about me ≧◉◡◉≦.",
         link: "https://mansi157.github.io/Personal-potfolio/",
-        tags: ["all","full stack","front end"]
+        tags: ["all","front end"]
     },
     {
         name: "Covid19 Tracker",
