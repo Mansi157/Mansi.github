@@ -141,13 +141,6 @@ var projects = [
         tags: ["all", "full stack"]
     },
     {
-        name: "Glass morphism Calculator",
-        image: "cal.PNG",
-        desc: "The Glass Morphism Calculator is a tool that performs simple calculations (like addition, subtraction, multiplication, and division), and I implemented it with HTML5, CSS, and JS.",
-        link: "https://mansi157.github.io/calculater/",
-        tags: ["all","front end"]
-    },
-    {
         name: "Menu Management System",
         image: "menu.PNG",
         desc: "Menu management system is a web application made with HTML5 CSS3 and PHP. Menus of the restaurant are available, as well as reserving a table.",
@@ -160,13 +153,6 @@ var projects = [
         desc: "Here is my Personal Website, where you can find out more about me ≧◉◡◉≦.",
         link: "https://mansi157.github.io/Personal-potfolio/",
         tags: ["all","full stack","front end"]
-    },
-    {
-        name: "Snake Game",
-        image: "snake.png",
-        desc: "This a Snake Game website. ",
-        link: "https://5vg7dwx1dr6prmav1zyscq-on.drv.tw/www.gmae.cf/snake1.html",
-        tags: ["all", "front end"]
     },
     {
         name: "Covid19 Tracker",
