@@ -26,7 +26,7 @@ function toggleResume() {
     if(resumeOptions.className === "resume-options view-resume-options") {
         document.querySelector('.resume-link').innerHTML = "Close";
     } else {
-        document.querySelector('.resume-link').innerHTML = "Resume";
+        document.querySelector('.resume-link').innerHTML = "Certificate";
     }
 }
 
