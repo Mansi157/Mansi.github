@@ -149,7 +149,7 @@ var projects = [
     },
     {
         name: "Digital Portfolio",
-        image: "ash.PNG",
+        image: "port.PNG",
         desc: "Here is my Personal Website, where you can find out more about me ≧◉◡◉≦.",
         link: "https://mansi157.github.io/Personal-potfolio/",
         tags: ["all","front end"]
